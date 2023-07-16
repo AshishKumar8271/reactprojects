@@ -22,7 +22,7 @@ const Menuapi=[
     {
         id:3,
         image:"https://st4.depositphotos.com/19960896/27069/i/600/depositphotos_270693040-stock-photo-group-indian-food-palak-paneer.jpg",
-        name:"Chola Thali",
+        name:"Naan Chola",
         category:"Dinner",
         price:"15$",
         description:
